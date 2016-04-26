@@ -1,0 +1,28 @@
+{
+  "name": "leviathan-msgpack-lite",
+  "version": "1.0.0",
+  "description": "Fast Pure JavaScript MessagePack Encoder and Decoder",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "event-lite": "^0.1.1",
+    "ieee754": "^1.1.6",
+    "int64-buffer": "^0.1.6",
+    "isarray": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbshr/leviathan-msgpack-lite.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abbshr/leviathan-msgpack-lite/issues"
+  },
+  "homepage": "https://github.com/abbshr/leviathan-msgpack-lite#readme"
+}
